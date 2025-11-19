@@ -1,0 +1,14 @@
+# full_k63v2_64_bsp-user 9 PPR1.180610.011 eng.helios.20200630.162127 dev-keys
+- manufacturer: alps
+- platform: mt6763
+- codename: k63v2_64_bsp
+- flavor: full_k63v2_64_bsp-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: eng.helios.20200630.162127
+- tags: dev-keys
+- fingerprint: alps/full_k63v2_64_bsp/k63v2_64_bsp:9/PPR1.180610.011/helios06301621:user/dev-keys
+- is_ab: false
+- brand: alps
+- branch: full_k63v2_64_bsp-user-9-PPR1.180610.011-eng.helios.20200630.162127-dev-keys
+- repo: alps_k63v2_64_bsp_dump
